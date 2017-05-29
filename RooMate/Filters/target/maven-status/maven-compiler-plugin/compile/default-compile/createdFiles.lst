@@ -1,0 +1,13 @@
+roomate\filters\model\FlatProperties.class
+pl\roomate\filters\UserSpecification.class
+pl\roomate\filters\SearchCriteria.class
+pl\roomate\filters\UserSpecificationsBuilder.class
+pl\roomate\controller\UserController.class
+roomate\filters\enums\Frequency.class
+pl\roomate\filters\UserRepository.class
+roomate\filters\utils\Address.class
+roomate\filters\enums\Sex.class
+roomate\filters\enums\Preference.class
+roomate\filters\model\UserPreferences.class
+roomate\filters\model\UserProfile.class
+pl\roomate\filters\FiltersApplication.class
